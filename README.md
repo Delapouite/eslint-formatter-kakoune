@@ -31,3 +31,11 @@ hook global WinSetOption filetype=javascript %{
 ```
 
 You may add more hooks to trigger the lint command on save.
+
+## See also
+
+- [kakoune-flow](https://github.com/Delapouite/kakoune-flow)
+
+## Licence
+
+MIT
