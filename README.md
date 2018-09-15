@@ -24,7 +24,7 @@ In your `kakrc`:
 
 ```
 hook global WinSetOption filetype=javascript %{
-  set buffer lintcmd 'eslint --format=node_modules/eslint-formatter-kakoune'
+  set buffer lintcmd 'eslint --config .eslintrc.js --format=node_modules/eslint-formatter-kakoune'
   lint-enable
   lint
 }
