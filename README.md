@@ -34,6 +34,7 @@ You may add more hooks to trigger the lint command on save.
 
 ## See also
 
+- [Errfmt](https://github.com/mzanibelli/errfmt)
 - [kakoune-flow](https://github.com/Delapouite/kakoune-flow)
 - [kakoune-ecmascript](https://github.com/Delapouite/kakoune-ecmascript)
 
